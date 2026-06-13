@@ -37,6 +37,6 @@ Here is a quick look at my development activity and top languages:
 
 ### 🔗 Connect With Me
 - 🌐 **Portfolio:** [react-portfolio-teal-nine.vercel.app](https://react-portfolio-teal-nine.vercel.app/)
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+- 💼 **LinkedIn:** 
 
 ⚡ *Fun fact: When I'm not writing code or looking at hardware schematic diagrams, I'm analyzing market charts or keeping up with high-performance automotive engineering.*
