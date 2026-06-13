@@ -5,7 +5,7 @@ I am a passionate **Full-Stack Developer**, **QA**, and **Telecommunication & In
 
 ---
 
-### 🚀 What I Do
+###  What I Do
 - 💻 **Full-Stack Development:** Building fast, responsive, and data-driven PWAs and web apps using TypeScript and the PERN/MERN stack.
 - 🛠️ **Quality Assurance & Engineering:** Planning test cases, executing functional testing, writing automated scripts, and tracking bugs to ensure high-performance deliverables.
 - ⚡ **Embedded Systems & IoT:** Tinkering with microcontrollers (ESP32/Arduino) using C++ and designing sensor networks.
